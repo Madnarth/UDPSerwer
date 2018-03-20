@@ -1,0 +1,9 @@
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\bin\Debug\UDPSerwer.exe.config
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\bin\Debug\UDPSerwer.exe
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\bin\Debug\UDPSerwer.pdb
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.csprojResolveAssemblyReference.cache
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.Form1.resources
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.Properties.Resources.resources
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.exe
+E:\Dokumenty\GitHub\UDPSerwer\UDPSerwer\obj\Debug\UDPSerwer.pdb
